@@ -187,7 +187,7 @@ function parseChapterList($: CheerioAPI, mangaId: string, source: any): Chapter[
         }
 
         chapters.push({
-            id: id, // Store chapterNumber as id
+            id: id,
             langCode: '🇹🇭',
             chapNum: chapterNumber,
             name: title,
