@@ -23,7 +23,7 @@ export const MakimaaaaaInfo: SourceInfo = {
     description: `Extension that pulls manga from ${DOMAIN}`,
     author: 'Thitiphatx',
     authorWebsite: 'http://github.com/thitiphatx',
-    icon: 'icon.png',
+    icon: 'icon.jpg',
     contentRating: ContentRating.MATURE,
     websiteBaseURL: DOMAIN,
     intents: SourceIntents.MANGA_CHAPTERS | SourceIntents.HOMEPAGE_SECTIONS | SourceIntents.CLOUDFLARE_BYPASS_REQUIRED | SourceIntents.SETTINGS_UI,
